@@ -98,7 +98,7 @@ export default {
               this.results++
               this.sampComments.push(obj.snippet.topLevelComment.snippet.textOriginal)
             }
-          }) //update
+          })
           if (this.results <= 0) {
             document.querySelector('.random_comment span').style.color="#fa3443"
             this.randomComment = 'Comments is empty!'
