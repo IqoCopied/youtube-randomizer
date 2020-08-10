@@ -1,3 +1,6 @@
 # Youtube Randomizer
 
-> Simple youtube randomizer on nuxt.js, with axios
+## Simple youtube randomizer on:
+	+ Nuxt.js
+	+ Axios module
+	+ CSS Reset
